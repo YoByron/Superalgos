@@ -5,6 +5,6 @@
   "main": "FetchingProcess.js",
   "author": "Luis Molina, Harrellbm",
   "dependencies": {
-    "node-fetch": "2.6.1"
+    "node-fetch": "2.6.7"
   }
 }
